@@ -1,0 +1,163 @@
+
+
+#overlay{
+    max-width: 1500px;
+    max-height: 800px;
+    margin: auto;
+    background-color: azure;
+    position:absolute;
+    top : 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 50px;
+    font-size: 30px;
+    color: red;
+    background-color: rgba(255, 255, 255, 100);
+
+}
+
+#show-modal-btn{
+    background: transparent;
+    padding-left: 50px;
+    padding-right: 50px;
+    color:azure;
+    border: none;
+    border-radius: 100px;
+    cursor:pointer;
+} 
+
+#modal{
+    max-width: 1500px;
+    max-height: 800px;
+    margin: auto;
+    background-color: azure;
+    position:absolute;
+    top : 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-radius: 50px;
+ 
+}
+
+#close-modal-btn{
+    position: absolute;
+    font-size: 50px;
+    top:0;
+    margin-right: 40px;
+    right: 0;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+#regex_head{
+    align-items: center;
+    font-size: 2vw;
+    margin-top: 4vh;
+    text-align: center;
+    color: black;
+}
+
+.container-scroll{
+    margin-top: 30px;
+    margin-left: 100px;
+    width: 1300px;
+    height: 600px;
+    overflow-y: scroll;
+    background-color: rgb(196, 199, 202);
+    align-items: center;
+    
+}
+
+.regex_content{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 20px;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    font-family: 'IBM Plex Sans Thai', sans-serif;
+}
+.image_1{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://cdn.discordapp.com/attachments/1081559785238966312/1091827603494670336/image.png");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+.image_2{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://cdn.discordapp.com/attachments/1081559785238966312/1091827695052136498/image.png");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+.image_3{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://media.discordapp.net/attachments/1081559785238966312/1091827771724025979/image.png");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+.image_4{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://media.discordapp.net/attachments/1081559785238966312/1091827834286260295/image.png?width=705&height=80");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+.image_5{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://media.discordapp.net/attachments/1081559785238966312/1091827890217300099/image.png?width=705&height=27");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+.image_6{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://media.discordapp.net/attachments/1081559785238966312/1091827964087382076/image.png?width=705&height=49");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+.image_7{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://media.discordapp.net/attachments/1081559785238966312/1091828019263459469/image.png?width=705&height=46");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+.image_8{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://media.discordapp.net/attachments/1081559785238966312/1091828345353809930/image.png?width=705&height=37");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+.image_9{
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-image: url("https://media.discordapp.net/attachments/1081559785238966312/1091828393294692412/image.png?width=705&height=42");
+    /* background-image: url(./01.png); */
+    background-size: 68vw;
+    width: 100;
+    
+}
+

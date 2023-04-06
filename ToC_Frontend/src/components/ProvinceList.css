@@ -1,0 +1,79 @@
+/* * {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+
+} */
+
+.form1 {
+    padding-top:1vh;
+    padding-left: 10vh;
+    font-size: 3rem;
+    line-height: 1.2;
+    display: grid;
+    grid-template-columns: 30px auto;
+    gap: 0.5em;
+    margin-bottom: 10px;
+    font-family: Charm;
+}
+
+html {
+    font-family: Charm;
+}
+
+form {
+    width: 450px;
+    margin-bottom: 10px;
+    font-size: 3vh;
+    
+}
+
+fieldset {
+    font-family: 'Montserrat', sans-serif;
+    border: 6px solid rgb(97, 91, 94);
+    margin-left: 5px;
+    margin-top: 0px;
+    border-radius: 70px;
+    background-color: white;
+    opacity: 0.7;
+} 
+.container {
+    display: flex;
+    justify-content: center;
+  }
+  
+.round-border-button {
+    border-radius: 100px;
+    font-size: 3.5rem;
+    padding: 1rem 4rem;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    background-color: #06D85F;
+    border-color: #06D85F;
+    color: black;
+    font-family: Charm;
+  }
+.round-border-button:active{
+        color: white;
+        background-color: #06D85F; 
+}
+.btn-lg{
+    padding: 1rem 4rem;
+    font-size: 3.5rem;
+    margin-bottom: 10px;
+    margin-top: 5px;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+  }
+
+.btn {
+    justify-content: center;
+    border-radius: 100px;
+    display: flex;
+    align-items: center;
+}
+#UwuLink li a{
+    text-decoration: none;
+    color: azure;
+    transition: 0.3 ease-in-out;
+}
+

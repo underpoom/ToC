@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  /* font-family: "Charm" ; */
+}
+
+.App-header {
+  background-color: #282c34;
+  text-align: center;
+  color: white;
+  letter-spacing: 3px; 
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding-top: 3vh;
+  padding-bottom: 3vh;
+}
+
+.page-grid{
+  display:grid;
+  grid-template-columns: 25% 75%; 
+  background-color: transparent;
+}
+
+.page-background{
+  background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("https://adaymagazine.com/wp-content/uploads/2018/08/DSC00123-1.jpg");
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.download-text{
+  color: black
+}

@@ -1,0 +1,56 @@
+/* * {
+    font-family: Charm;
+} */
+
+#UwuLink{
+    padding-top: 3vh;
+    font-size: 4vh;
+    padding-left: 1vw;
+    align-items: center;
+    font-family: Charm;
+}
+
+#UwuLink li{
+
+    list-style: none;
+    border-radius: 100px;
+    border: solid;
+    color:white;
+    position: relative;
+    text-align: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    padding: px;
+} 
+
+#UwuLink li a{
+    
+    font-size: 4vh;
+    padding-left: 1vw;
+    align-items: center;
+    font-family: Charm;
+    
+}
+
+
+#UwuLink :hover,
+#UwuLink .active{
+    color: black;
+    background: #17cf97;
+}
+
+
+
+.left_page{
+    height: 100vh;
+    
+}
+
+.fixposition{
+    position: fixed;
+    left:3.75vw;
+    padding-top: 15vh;
+}
+
+
+
